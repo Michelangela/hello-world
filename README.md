@@ -1,2 +1,2 @@
 # hello-world
-That's a classic
+That's a "hello world" comment. 
